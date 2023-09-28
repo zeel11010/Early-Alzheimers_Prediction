@@ -23,3 +23,9 @@ paper will inspire and inform researchers, practitioners, and
 policymakers who are interested in using machine learning 
 techniques for early detection of AD, and contribute to the 
 advancement of this important and promising field.
+
+https://www.ijset.in/volume-11-issue-5/
+
+volume-11
+issue-5
+published under ijset
